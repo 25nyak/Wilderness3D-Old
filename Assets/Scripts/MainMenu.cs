@@ -45,9 +45,9 @@ public class MainMenu : MonoBehaviour
 
             if (gameCamera.transform.position.x > -50)
             {
-                gameCamera.transform.position = 
+                gameCamera.transform.position =
                     new Vector3(gameCamera.transform.position.x - 0.16f, gameCamera.transform.position.y + 0.12f, gameCamera.transform.position.z);
-                gameCamera.transform.eulerAngles = 
+                gameCamera.transform.eulerAngles =
                     new Vector3(gameCamera.transform.eulerAngles.x + 0.08f, gameCamera.transform.eulerAngles.y, gameCamera.transform.eulerAngles.z);
             }
             else
@@ -58,7 +58,7 @@ public class MainMenu : MonoBehaviour
             }
         }
 
-        if(cameraBack)
+        if (cameraBack)
         {
             if (gameCamera.transform.position.x < -29.3)
             {

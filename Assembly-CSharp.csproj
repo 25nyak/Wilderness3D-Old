@@ -115,6 +115,7 @@
     <Compile Include="Assets\Low Poly Modular Terrain Pack\Bonus_Assets\Scripts\ModularTerrainCloudsControl.cs" />
     <Compile Include="Assets\Low Poly Modular Terrain Pack\Bonus_Assets\Scripts\ModularTerrainSunControl.cs" />
     <Compile Include="Assets\MoveTo.cs" />
+    <Compile Include="Assets\Scripts\GamePanel.cs" />
     <Compile Include="Assets\Scripts\MainMenu.cs" />
     <Compile Include="Assets\StylizedNatureBundle\Demo\PostProcessing\Runtime\Attributes\GetSetAttribute.cs" />
     <Compile Include="Assets\StylizedNatureBundle\Demo\PostProcessing\Runtime\Attributes\MinAttribute.cs" />
